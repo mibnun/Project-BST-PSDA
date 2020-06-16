@@ -6,4 +6,4 @@ NIM   : 1910512017
 Kelas : A
 Email : mibnun354@gmail.com
 
-Program ini berisi tentang BST (Binary Search Tree)
+Program ini berisi tentang BST (Binary Search Tree). Dalam program ini terdapat fitur
